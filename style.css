@@ -1,0 +1,13 @@
+body
+{
+    background-color: blanchedalmond;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+.search
+{
+    position: absolute;
+    align-self: center;
+    width: 40px;
+    margin: 0 10px;
+}
